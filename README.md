@@ -7,9 +7,9 @@ Ce projet consiste en la création d'une API backend pour une plateforme d'appre
 ## **Installation et lancement du projet**
 
 ### **1. Pré-requis**
-- Node.js (version 14 ou supérieure) installé sur votre machine.
-- MongoDB installé et en cours d'exécution localement ou via un service cloud.
-- Git installé.
+- Node.js .
+- MongoDB .
+- Git .
 
 ### **2. Installation**
 
